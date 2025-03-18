@@ -22,6 +22,12 @@ document.addEventListener("DOMContentLoaded", async () => {
                 card.classList.add("card");
                 card.style.backgroundImage = `url('${item.image}')`;
 
+                
+                card.addEventListener("click", () => {
+                    window.open(item.url, "_blank"); 
+                    
+                });
+
                 const span = document.createElement("span");
                 span.textContent = item.name;
 

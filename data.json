@@ -1,9 +1,9 @@
 [
-    { "nombre": "Giros", "imagen": "/images/giros.png" },
-    { "nombre": "Recaudos", "imagen": "/images/recaudos.png" },
-    { "nombre": "Corresponsal", "imagen": "/images/corresponsal.png" },
-    { "nombre": "Pines", "imagen": "/images/pines.png" },
-    { "nombre": "Recargas", "imagen": "/images/recargas.png" },
-    { "nombre": "Juegos de suerte y azar", "imagen": "/images/juegos.png" },
-    { "nombre": "Escrutinio", "imagen": "/images/escrutinio.png" }
+    { "nombre": "Giros", "imagen": "/images/giros.png", "url": "https://www.pagatodo.com.co/giros" },
+    { "nombre": "Recaudos", "imagen": "/images/recaudos.png", "url": "https://www.pagatodo.com.co/pagos-y-recaudos" },
+    { "nombre": "Corresponsal", "imagen": "/images/corresponsal.png", "url": "https://www.pagatodo.com.co/pagos-y-recaudos" },
+    { "nombre": "Pines", "imagen": "/images/pines.png", "url": "https://www.pagatodo.com.co/pines-y-recargas" },
+    { "nombre": "Recargas", "imagen": "/images/recargas.png", "url": "https://www.pagatodo.com.co/pines-y-recargas" },
+    { "nombre": "Juegos de suerte y azar", "imagen": "/images/juegos.png", "url": "https://www.coljuegos.gov.co/" },
+    { "nombre": "Escrutinio", "imagen": "/images/escrutinio.png", "url": "https://www.pagatodo.com.co/resultados.php" }
 ]
