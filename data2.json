@@ -11,7 +11,7 @@
         "category": "Servicios digitales",
         "items": [
             { "name": "Pines", "image": "/images/pines.png" },
-            { "name": "Recargas", "image": "recargas.jpg" }
+            { "name": "Recargas", "image": "/images/recargas.png" }
         ]
     },
     {

@@ -3,7 +3,7 @@
     { "nombre": "Recaudos", "imagen": "/images/recaudos.png" },
     { "nombre": "Corresponsal", "imagen": "/images/corresponsal.png" },
     { "nombre": "Pines", "imagen": "/images/pines.png" },
-    { "nombre": "Recargas", "imagen": "https://via.placeholder.com/200x250/ff00ff" },
+    { "nombre": "Recargas", "imagen": "/images/recargas.png" },
     { "nombre": "Juegos de suerte y azar", "imagen": "/images/juegos.png" },
     { "nombre": "Escrutinio", "imagen": "/images/escrutinio.png" }
 ]
