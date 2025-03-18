@@ -18,7 +18,7 @@
         "category": "Juegos y apuestas",
         "items": [
             { "name": "Juegos de suerte y azar", "image": "juegos.jpg" },
-            { "name": "Escrutinio", "image": "escrutinio.jpg" }
+            { "name": "Escrutinio", "image": "/images/escrutinio.png" }
         ]
     }
 ]
