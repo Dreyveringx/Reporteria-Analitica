@@ -1,7 +1,7 @@
 [
     { "nombre": "Giros", "imagen": "/images/giros.png" },
-    { "nombre": "Recaudos", "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDjIJMmUutco1gRUb_dn01perO7Xxd3lQN6_F5Fk8YWzFUfPSkQ4jnBC0qYfMFzNtum5k&usqp=CAU" },
-    { "nombre": "Corresponsal", "imagen": "https://www.transfiriendo.com/wp-content/uploads/2022/04/11.jpeg" },
+    { "nombre": "Recaudos", "imagen": "" },
+    { "nombre": "Corresponsal", "imagen": "/images/corresponsal.png" },
     { "nombre": "Pines", "imagen": "/images/pines.png" },
     { "nombre": "Recargas", "imagen": "https://via.placeholder.com/200x250/ff00ff" },
     { "nombre": "Juegos de suerte y azar", "imagen": "/images/juegos.png" },

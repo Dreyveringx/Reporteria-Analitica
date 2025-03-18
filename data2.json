@@ -4,7 +4,7 @@
         "items": [
             { "name": "Giros", "image": "/images/giros.png" },
             { "name": "Recaudos", "image": "recaudos.jpg" },
-            { "name": "Corresponsal", "image": "corresponsal.jpg" }
+            { "name": "Corresponsal", "image": "/images/corresponsal.png" }
         ]
     },
     {
