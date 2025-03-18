@@ -1,6 +1,6 @@
 [
     { "nombre": "Giros", "imagen": "/images/giros.png" },
-    { "nombre": "Recaudos", "imagen": "" },
+    { "nombre": "Recaudos", "imagen": "/images/recaudos.png" },
     { "nombre": "Corresponsal", "imagen": "/images/corresponsal.png" },
     { "nombre": "Pines", "imagen": "/images/pines.png" },
     { "nombre": "Recargas", "imagen": "https://via.placeholder.com/200x250/ff00ff" },
