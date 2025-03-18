@@ -10,14 +10,14 @@
     {
         "category": "Servicios digitales",
         "items": [
-            { "name": "Pines", "image": "pines.jpg" },
+            { "name": "Pines", "image": "/images/pines.png" },
             { "name": "Recargas", "image": "recargas.jpg" }
         ]
     },
     {
         "category": "Juegos y apuestas",
         "items": [
-            { "name": "Juegos de suerte y azar", "image": "juegos.jpg" },
+            { "name": "Juegos de suerte y azar", "image": "/images/juegos.png" },
             { "name": "Escrutinio", "image": "/images/escrutinio.png" }
         ]
     }
