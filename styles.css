@@ -62,6 +62,7 @@ body::before {
   background-position: center;
   color: white;
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+  cursor: pointer;
 }
 
 .card::before {
@@ -119,13 +120,13 @@ body::before {
 }
 
 #addCard {
-    background: linear-gradient(135deg, #ff7eb3, #ff758c);
+    background: linear-gradient(135deg, #c0312d, #ff758c);
     color: white;
     font-size: 1.2rem;
     font-weight: bold;
     padding: 12px 24px;
     border: none;
-    border-radius: 8px;
+    border-radius: 10px;
     cursor: pointer;
     transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
     position: relative;
@@ -136,7 +137,7 @@ body::before {
 }
 
 #addCard:hover {
-    background: linear-gradient(135deg, #ff4d79, #ff2e63);
+    background: linear-gradient(135deg, #a41313, #ff2e63);
     transform: scale(1.05);
     box-shadow: 0 6px 20px rgba(255, 71, 104, 0.5);
 }
