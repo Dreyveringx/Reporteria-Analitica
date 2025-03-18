@@ -2,7 +2,7 @@
     {
         "category": "Transacciones financieras",
         "items": [
-            { "name": "Giros", "image": "giros.jpg" },
+            { "name": "Giros", "image": "/images/giros.png" },
             { "name": "Recaudos", "image": "recaudos.jpg" },
             { "name": "Corresponsal", "image": "corresponsal.jpg" }
         ]
