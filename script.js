@@ -15,3 +15,7 @@ fetch('data.json')
         });
     })
     .catch(error => console.error('Error cargando el JSON:', error));
+
+    document.getElementById("addCard").addEventListener("click", function() {
+        window.location.href = "./opcion2.html";
+    });

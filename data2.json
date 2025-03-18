@@ -1,0 +1,24 @@
+[
+    {
+        "category": "Transacciones financieras",
+        "items": [
+            { "name": "Giros", "image": "giros.jpg" },
+            { "name": "Recaudos", "image": "recaudos.jpg" },
+            { "name": "Corresponsal", "image": "corresponsal.jpg" }
+        ]
+    },
+    {
+        "category": "Servicios digitales",
+        "items": [
+            { "name": "Pines", "image": "pines.jpg" },
+            { "name": "Recargas", "image": "recargas.jpg" }
+        ]
+    },
+    {
+        "category": "Juegos y apuestas",
+        "items": [
+            { "name": "Juegos de suerte y azar", "image": "juegos.jpg" },
+            { "name": "Escrutinio", "image": "escrutinio.jpg" }
+        ]
+    }
+]
