@@ -130,10 +130,12 @@ body::before {
     cursor: pointer;
     transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
     position: relative;
-    overflow: hidden;
     box-shadow: 0 4px 15px rgba(255, 118, 136, 0.3);
     margin-top: 20px;
-    margin-bottom: 20px;;
+    margin-bottom: 20px;
+    display: inline-block;
+    min-width: 180px;
+    text-align: center;
 }
 
 #addCard:hover {
@@ -145,4 +147,8 @@ body::before {
 #addCard:active {
     transform: scale(0.95);
     box-shadow: 0 3px 10px rgba(255, 71, 104, 0.5);
+}
+
+.porRevisar {
+    padding: 10px;
 }
